@@ -1,0 +1,15 @@
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\bin\Debug\net9.0\NonPrimitiveDataType.exe
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\bin\Debug\net9.0\NonPrimitiveDataType.deps.json
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\bin\Debug\net9.0\NonPrimitiveDataType.runtimeconfig.json
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\bin\Debug\net9.0\NonPrimitiveDataType.dll
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\bin\Debug\net9.0\NonPrimitiveDataType.pdb
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.AssemblyInfoInputs.cache
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.AssemblyInfo.cs
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.csproj.CoreCompileInputs.cache
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.sourcelink.json
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.dll
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\refint\NonPrimitiveDataType.dll
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.pdb
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\NonPrimitiveDataType.genruntimeconfig.cache
+D:\C#\P1Code\C-Sharp.NET\NonPrimitiveDataType\obj\Debug\net9.0\ref\NonPrimitiveDataType.dll
