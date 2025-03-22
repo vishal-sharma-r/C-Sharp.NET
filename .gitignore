@@ -1,0 +1,50 @@
+# Ignore Visual Studio files
+.vs/
+.vsconfig
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+[Aa]rch/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.pdb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# Ignore the bin and obj folders
+bin/
+obj/
+
+# Ignore compiled DLLs and EXEs
+*.dll
+*.exe
+*.pdb
+*.app
+
+# Ignore the contents of the packages folder (if you use NuGet)
+packages/
+
+# Ignore backup files
+*~.bak
